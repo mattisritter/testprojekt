@@ -28,7 +28,7 @@ void setup() {
 
   dht.begin();
   // This delay gives the chance to wait for a Serial Monitor without blocking if none is found
-  delay(1500); 
+  delay(2000); 
 
   // Defined in thingProperties.h
   initProperties();
