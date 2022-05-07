@@ -7,6 +7,7 @@
 = Project: {Project}
 
 Describe your project
+CAUTION: Achtung
 
 == Step 1: Installation
 Please describe the steps to install this project.
